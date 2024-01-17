@@ -5,6 +5,10 @@
 }
 
 .nav li {
-  display: block;
+  display: Inline-block;
+  /*pedding-left: 60px;*/
+  /*pedding-right: 60px;*/
   font-size: 25px;
+  width: 10%;
+
 }
